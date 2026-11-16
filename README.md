@@ -313,4 +313,4 @@ TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH
 THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
 
 For permissions beyond those granted here, contact:
-GitHub: https://github.com/dlkhwshabwlfdl-web
+GitHub: https://github.com/rconpilot
